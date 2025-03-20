@@ -59,7 +59,7 @@ Follow these steps to set up the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/rpm-ai.git
-   cd rpm-ai
+   cd project
    ```
 
 2. Install dependencies:
