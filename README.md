@@ -2,7 +2,7 @@
 
 RPM.AI is an intelligent platform designed specifically for medical students and researchers to get complex medical topics explained through text and speech-to-text functionality, with a secure authentication system for privacy protection.
 
-[Video Title](MedStudentAssistant.webm)
+[Video Title]([https:/gitMedStudentAssistant.webm](https://github.com/sakshamagarwalm2/RPM.AI/blob/main/MedStudentAssistant.webm))
 
 ## Table of Contents
 - [Project Description](#project-description)
