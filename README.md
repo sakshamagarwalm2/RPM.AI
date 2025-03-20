@@ -118,15 +118,6 @@ Example prompts:
 - Collaborative features for study groups
 - Offline mode for access without internet connection
 
-## Credits
-
-This project was developed by [Your Name]. 
-
-Special thanks to:
-- [Name] for UI/UX suggestions
-- [Name] for testing and feedback
-- Medical professionals who provided domain expertise
-
 ## License
 
 This project is licensed under the terms of the [Llama License](https://github.com/meta-llama/llama/blob/main/LICENSE).
