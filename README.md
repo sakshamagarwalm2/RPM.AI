@@ -4,6 +4,8 @@ RPM.AI is an intelligent platform designed specifically for medical students and
 
 [Watch the Video](./Public/MedStudentAssistant.webm)
 
+![Alt text](https://github.com/sakshamagarwalm2/RPM.AI/blob/main/Screenshot%202025-03-23%20161014.png)
+
 ## Table of Contents
 - [Project Description](#project-description)
 - [Features](#features)
@@ -24,8 +26,10 @@ The platform provides both text-based and speech-to-text interfaces, allowing us
 ## Features
 
 - **AI-Powered Explanations**: Get detailed explanations for complex medical topics using Llama 3.3-70b via Groq API
+- ![Alt text](https://github.com/sakshamagarwalm2/RPM.AI/blob/main/WhatsApp%20Image%202025-03-13%20at%206.54.48%20PM.jpeg)
 - **Dual Input Methods**: Text and speech-to-text functionality for flexible interaction
 - **Secure Authentication**: Clerk API for user authentication and security
+- ![Alt text](https://github.com/sakshamagarwalm2/RPM.AI/blob/main/WhatsApp%20Image%202025-03-13%20at%206.54.48%20PM%20(1).jpeg)
 - **Responsive Design**: Works seamlessly across devices of various screen sizes
 - **Protected Routes**: Ensures secure access to user-specific content
 
